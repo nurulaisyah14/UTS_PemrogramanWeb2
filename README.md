@@ -18,19 +18,6 @@ Made with ❤️ by Nurul Aisyah
 ## Apa itu WebSocket?
 WebSocket adalah protokol jaringan yang memberikan saluran komunikasi **dua arah** (full-duplex) dan **persisten** antara klien dan server. Berbeda dengan HTTP yang bersifat stateless dan hanya berdasarkan permintaan-respons, WebSocket memungkinkan server mengirim data ke klien tanpa permintaan baru.
 
-## Perbedaan WebSocket dengan HTTP Tradisional
-| Aspek | HTTP | WebSocket |
-| :--- | :--- | :--- |
-| Model | Request-Response | Full-Duplex |
-| Koneksi | Terputus setiap transaksi | Tetap terbuka |
-| Efisiensi | Perlu polling untuk update | Push real-time langsung |
-| Overhead | Tinggi (banyak permintaan) | Rendah |
-
-## Kasus Penggunaan WebSocket
-- **Aplikasi Chat**: Komunikasi instan antar pengguna.
-- **Game Online**: Sinkronisasi pemain secara real-time.
-- **Notifikasi Langsung**: Mengirim pemberitahuan tanpa refresh halaman.
-- **Dashboard Monitoring**: Memperbarui data langsung.
 
 ## Eksperimen Sederhana dengan WebSocket
 
