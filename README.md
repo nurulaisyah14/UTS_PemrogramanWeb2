@@ -57,7 +57,8 @@ node server.js
 ![image](https://github.com/user-attachments/assets/baa95b81-a5ee-4b5a-9df0-12772dae0d3b)
 
 Kemudian buka `client.html` di browser.
-![image](https://github.com/user-attachments/assets/aeee190a-8838-4103-8e28-256fae184bec)
+![image](https://github.com/user-attachments/assets/4586cebb-702e-460f-97e7-799533bc2332)
+
 
 
 
