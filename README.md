@@ -43,18 +43,25 @@ npm install ws
 
 ### 3. Membuat Server WebSocket
 **server.js**
-![image](https://github.com/user-attachments/assets/a41693f7-e8f2-49a8-9fc8-81c738d8a7c8)
+
+![image](https://github.com/user-attachments/assets/8b794247-9a93-4e3c-9bc5-558a4eca562e)
+
 
 
 ### 4. Membuat Client WebSocket
 **client.html**
-![image](https://github.com/user-attachments/assets/e3beb61c-7e0f-42b5-926d-4e11e75a1c12)
+
+![image](https://github.com/user-attachments/assets/c73e06fb-660b-4333-b7f0-dbb5945c705e)
+![image](https://github.com/user-attachments/assets/c84866db-24d2-4741-bfdb-96189a3786d5)
+
+
 
 ### 5. Menjalankan Server
 ```bash
 node server.js
 ```
-![image](https://github.com/user-attachments/assets/baa95b81-a5ee-4b5a-9df0-12772dae0d3b)
+![image](https://github.com/user-attachments/assets/bd3fb346-a01b-4933-972e-05b6aaea6143)
+
 
 Kemudian buka `client.html` di browser.
 ![image](https://github.com/user-attachments/assets/4586cebb-702e-460f-97e7-799533bc2332)
